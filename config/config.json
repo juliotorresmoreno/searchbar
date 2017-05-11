@@ -1,0 +1,9 @@
+{
+    "mongo": {
+        "connection_str": "mongodb://realtyisp:MAYgh6886YWFxBpT@45.33.16.199/",
+        "collection": "Property"
+    },
+    "redis": {
+        "host": "localhost"
+    }
+}
